@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">  
-Gatsby minimal starter Hello World Again 20210816 1015 testing
+Gatsby minimal starter
 </h1>
 
 ## 🚀 Quick start
